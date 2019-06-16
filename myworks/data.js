@@ -1,0 +1,1 @@
+var myData={designer:{name:'曾佩娟',phone:'186-8893-9301',tag:["#2年工作经验#爱设计#爱生活"],bg:'#ff80ff'},gallery:[]}
